@@ -26,6 +26,7 @@ export class CriarPensamentoComponent implements OnInit {
   }
 
   criarPensamento(){
+    console.log(this.pensamento.modelo)
     this.service.criar(this.pensamento).subscribe(() => {
       this.router.navigate(['/listarPensamento'])
     })
