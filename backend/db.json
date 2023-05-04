@@ -19,7 +19,7 @@
       "autoria": "Esquilo",
       "modelo": "modelo1",
       "id": 4,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Ai branco",
@@ -47,7 +47,7 @@
       "autoria": "flabio",
       "modelo": "modelo3",
       "id": 8,
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 9,
@@ -68,14 +68,14 @@
       "autoria": "Mãe",
       "modelo": "modelo2",
       "id": 11,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Foi sem querer querendo!",
       "autoria": "Chaves",
       "modelo": "modelo3",
       "id": 12,
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 13,
@@ -96,7 +96,7 @@
       "autoria": "Mussum",
       "modelo": "modelo3",
       "id": 15,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Por que a pessoa dev não morre afogada? Porque ela usa ponto flutuante.",
@@ -117,14 +117,14 @@
       "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
       "autoria": "Dev",
       "modelo": "modelo1",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 19,
       "conteudo": "Não faça drama, faça café! :)",
       "autoria": "Dev",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Conserta minha impressora?",
