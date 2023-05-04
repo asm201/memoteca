@@ -4,151 +4,176 @@
       "id": 1,
       "conteudo": "Adoro muito esse grupo",
       "autoria": "CAtito",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Pega essa barra de metal pra mim ",
       "autoria": "Esquilo",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": true
     },
     {
       "conteudo": "Ai branco",
       "autoria": "Tenca, Luna",
       "modelo": "modelo3",
-      "id": 5
+      "id": 5,
+      "favorito": true
     },
     {
       "conteudo": "Da vida reclama, mas sem ela não vive!",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "id": 6
+      "id": 6,
+      "favorito": true
     },
     {
       "conteudo": "alo galera",
       "autoria": "Ale",
       "modelo": "modelo3",
-      "id": 7
+      "id": 7,
+      "favorito": false
     },
     {
       "conteudo": "n ageunto mais",
       "autoria": "flabio",
       "modelo": "modelo3",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "id": 9,
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
       "autoria": "Chaves",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 10,
       "conteudo": "Melhor professor, o fracasso é!",
       "autoria": "Mestre Yoda",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Você não é todo mundo!",
       "autoria": "Mãe",
       "modelo": "modelo2",
-      "id": 11
+      "id": 11,
+      "favorito": false
     },
     {
       "conteudo": "Foi sem querer querendo!",
       "autoria": "Chaves",
       "modelo": "modelo3",
-      "id": 12
+      "id": 12,
+      "favorito": false
     },
     {
       "id": 13,
       "conteudo": "Em casa a gente conversa!",
       "autoria": "Mãe",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 14,
       "conteudo": "Que a força esteja com você!",
       "autoria": "Mestre Yoda",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
       "autoria": "Mussum",
       "modelo": "modelo3",
-      "id": 15
+      "id": 15,
+      "favorito": false
     },
     {
       "conteudo": "Por que a pessoa dev não morre afogada? Porque ela usa ponto flutuante.",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "id": 16
+      "id": 16,
+      "favorito": false
     },
     {
       "id": 17,
       "conteudo": "Leva o casaco que vai esfriar!",
       "autoria": "Mãe",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 18,
       "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
       "autoria": "Dev",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 19,
       "conteudo": "Não faça drama, faça café! :)",
       "autoria": "Dev",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "Conserta minha impressora?",
       "autoria": "Grupo da família",
       "modelo": "modelo3",
-      "id": 20
+      "id": 20,
+      "favorito": false
     },
     {
       "conteudo": "Não fez mais que a sua obrigação!",
       "autoria": "Mãe",
       "modelo": "modelo1",
-      "id": 21
+      "id": 21,
+      "favorito": false
     },
     {
       "conteudo": "Por que meu código funcionou?",
       "autoria": "Dev ",
       "modelo": "modelo1",
-      "id": 22
+      "id": 22,
+      "favorito": false
     },
     {
       "conteudo": "A vingança nunca é plenis... mata a alma e a envenenis...",
       "autoria": "Seu Madruguis",
       "modelo": "modelo2",
-      "id": 23
+      "id": 23,
+      "favorito": false
     },
     {
       "conteudo": "Resolver o bug não consegue? Esfriar a cabeça você deve.",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
-      "id": 24
+      "id": 24,
+      "favorito": false
     },
     {
       "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
       "autoria": "Mãe",
       "modelo": "modelo3",
-      "id": 25
+      "id": 25,
+      "favorito": false
     },
     {
       "conteudo": "Eu vou contar até três! ",
       "autoria": "Mãe",
       "modelo": "modelo2",
-      "id": 26
+      "id": 26,
+      "favorito": false
     }
   ]
 }

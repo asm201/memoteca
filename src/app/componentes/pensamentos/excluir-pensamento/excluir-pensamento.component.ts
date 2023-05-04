@@ -10,11 +10,12 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class ExcluirPensamentoComponent implements OnInit {
 
-  pensamento: Pensamento = {
+  pensamento:  Pensamento = {
     id: 0,
     conteudo:'',
     autoria:'',
-    modelo:''
+    modelo:'',
+    favorito: false
   }
 
   constructor(
